@@ -6,12 +6,14 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Sorting
@@ -31,4 +33,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
