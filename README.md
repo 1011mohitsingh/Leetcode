@@ -6,6 +6,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -37,4 +38,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
