@@ -58,4 +58,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
