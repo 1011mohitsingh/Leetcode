@@ -62,4 +62,5 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
