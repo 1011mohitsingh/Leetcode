@@ -11,6 +11,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
@@ -85,4 +86,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
