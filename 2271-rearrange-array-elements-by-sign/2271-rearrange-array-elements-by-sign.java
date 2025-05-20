@@ -3,8 +3,7 @@ class Solution {
         int n = nums.length;
         ArrayList<Integer> PList = new ArrayList<>();
         ArrayList<Integer> NList = new ArrayList<>();
-        ArrayList<Integer> RList = new ArrayList<>();
-
+        int[] result = new int[n];
 
         for(int i=0;i<n;i++){
             if(nums[i]>0){
@@ -14,16 +13,10 @@ class Solution {
             }
         }
 
-        for(int i=0;i<PList.size();i++){
-            RList.add(PList.get(i));
-            RList.add(NList.get(i));
+        for(int i=0;i<n/2;i++){
+            result[2*i] = PList.get(i);
+            result[2*i+1] = NList.get(i);
         }
-
-        int[] result = new int[n];
-        for(int i=0;i<n;i++){
-            result[i] = RList.get(i);
-        }
-    
         return result;
     }
 }
