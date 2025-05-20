@@ -22,30 +22,29 @@ class Solution {
         // return result;
 
 
-        int k=0;
-        int l= 0;
-        int m = 0;
-        int o = 0;
-        int p=0;
+        int P_idx = 0;
+        int N_idx = 0;
+        int R_idx = 0;
+
         int[] PArray = new int[n/2];
         int[] NArray = new int[n/2];
         int[] RArray = new int[n];
 
         for(int i=0;i<n;i++){
             if(nums[i] >0 ){
-                PArray[k++] = nums[i];
+                PArray[P_idx++] = nums[i];
             } 
             else {
-                NArray[l++] = nums[i];
+                NArray[N_idx++] = nums[i];
             }
         }
-        
+
         for(int i=0;i<n/2;i++){
             if(i<PArray.length){
-                RArray[p++] = PArray[m++];
+                RArray[R_idx++] = PArray[i];
             }
             if(i<NArray.length){
-                RArray[p++] = NArray[o++];
+                RArray[R_idx++] = NArray[i];
             }
             
         }
