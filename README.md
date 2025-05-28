@@ -12,6 +12,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/1011mohitsingh/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/1011mohitsingh/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/1011mohitsingh/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
