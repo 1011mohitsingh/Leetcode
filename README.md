@@ -27,6 +27,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/1011mohitsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1011mohitsingh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
