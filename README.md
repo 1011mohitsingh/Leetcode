@@ -17,6 +17,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/1011mohitsingh/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/1011mohitsingh/Leetcode/tree/master/0217-contains-duplicate) |
@@ -141,4 +143,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
