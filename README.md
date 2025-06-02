@@ -17,6 +17,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/1011mohitsingh/Leetcode/tree/master/0075-sort-colors) |
@@ -132,6 +133,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -149,5 +151,6 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
