@@ -129,6 +129,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0009-palindrome-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 ## String
