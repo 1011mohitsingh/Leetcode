@@ -55,6 +55,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0088-merge-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -80,6 +81,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -183,6 +185,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -192,4 +195,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
