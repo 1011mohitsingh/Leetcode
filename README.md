@@ -35,6 +35,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/1011mohitsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
@@ -149,6 +150,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0074-search-a-2d-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
