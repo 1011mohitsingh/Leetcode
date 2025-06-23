@@ -40,6 +40,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
+| [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1011mohitsingh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -155,6 +156,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0162-find-peak-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
