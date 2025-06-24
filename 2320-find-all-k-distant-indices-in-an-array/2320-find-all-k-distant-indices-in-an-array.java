@@ -1,22 +1,48 @@
 class Solution {
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
-        List<Integer> keyIndices = new ArrayList<>();
-        List<Integer> result = new ArrayList<>();
+        int n = nums.length;
+        boolean[] valid = new boolean[n];
 
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] == key){
-                keyIndices.add(i);
+        for (int j = 0; j < n; j++) {
+            if (nums[j] == key) {
+                int start = Math.max(0, j - k);
+                int end = Math.min(n - 1, j + k);
+                for (int i = start; i <= end; i++) {
+                    valid[i] = true; 
+                }
             }
         }
 
-        for(int i=0;i<nums.length;i++){
-            for(int j : keyIndices){
-                if(Math.abs(i-j) <= k){
-                    result.add(i);
-                    break;
-                }
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (valid[i]) {
+                result.add(i);
             }
         }
         return result;
     }
 }
+
+
+// class Solution {
+//     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
+//         List<Integer> keyIndices = new ArrayList<>();
+//         List<Integer> result = new ArrayList<>();
+
+//         for(int i=0;i<nums.length;i++){
+//             if(nums[i] == key){
+//                 keyIndices.add(i);
+//             }
+//         }
+
+//         for(int i=0;i<nums.length;i++){
+//             for(int j : keyIndices){
+//                 if(Math.abs(i-j) <= k){
+//                     result.add(i);
+//                     break;
+//                 }
+//             }
+//         }
+//         return result;
+//     }
+// }
