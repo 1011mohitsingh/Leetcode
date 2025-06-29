@@ -42,6 +42,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/1011mohitsingh/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/1011mohitsingh/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -168,6 +169,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/1011mohitsingh/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/1011mohitsingh/Leetcode/tree/master/1646-kth-missing-positive-number) |
