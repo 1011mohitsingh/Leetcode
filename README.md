@@ -9,6 +9,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/1011mohitsingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0027-remove-element) |
@@ -167,6 +168,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -263,4 +265,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
