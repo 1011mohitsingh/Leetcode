@@ -53,6 +53,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1646-kth-missing-positive-number](https://github.com/1011mohitsingh/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1011mohitsingh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -195,6 +196,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/1011mohitsingh/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/1011mohitsingh/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +233,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0074-search-a-2d-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
