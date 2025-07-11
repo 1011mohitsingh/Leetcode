@@ -285,4 +285,20 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
