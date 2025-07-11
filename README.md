@@ -44,6 +44,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -194,6 +195,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
