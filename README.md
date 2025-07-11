@@ -290,11 +290,13 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,4 +307,5 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
