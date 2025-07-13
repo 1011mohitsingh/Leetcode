@@ -126,6 +126,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0007-reverse-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -175,6 +177,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
