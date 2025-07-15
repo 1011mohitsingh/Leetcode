@@ -189,6 +189,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3396-valid-word](https://github.com/1011mohitsingh/Leetcode/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
 | ------- |
