@@ -131,6 +131,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/1011mohitsingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +185,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
