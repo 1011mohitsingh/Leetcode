@@ -274,6 +274,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
@@ -300,6 +301,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -309,6 +311,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -318,11 +321,13 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
