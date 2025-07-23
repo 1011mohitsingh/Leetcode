@@ -20,6 +20,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/1011mohitsingh/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -99,6 +100,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -122,6 +124,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
