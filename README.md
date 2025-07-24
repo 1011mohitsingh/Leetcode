@@ -78,6 +78,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -144,6 +145,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -200,6 +202,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -297,6 +300,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Monotonic Queue
 |  |
