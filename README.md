@@ -110,6 +110,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +336,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +351,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,6 +373,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -380,4 +384,5 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
