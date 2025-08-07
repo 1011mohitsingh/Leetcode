@@ -151,6 +151,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -214,6 +215,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -322,6 +324,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
