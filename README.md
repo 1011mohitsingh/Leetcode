@@ -183,6 +183,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1011mohitsingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -275,6 +276,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -321,6 +323,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Queue
@@ -431,4 +434,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
