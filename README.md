@@ -278,6 +278,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0215-kth-largest-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -310,10 +311,12 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
@@ -357,6 +360,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -394,6 +398,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -407,6 +412,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Segment Tree
