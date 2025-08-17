@@ -86,6 +86,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/1011mohitsingh/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -223,6 +224,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/1011mohitsingh/Leetcode/tree/master/0443-string-compression) |
