@@ -31,6 +31,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0119-pascals-triangle-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/1011mohitsingh/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/1011mohitsingh/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
