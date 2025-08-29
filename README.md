@@ -68,6 +68,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/1011mohitsingh/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/1011mohitsingh/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -110,6 +111,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3748-sort-matrix-by-diagonals](https://github.com/1011mohitsingh/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +310,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/1011mohitsingh/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
