@@ -15,6 +15,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0027-remove-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/1011mohitsingh/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/1011mohitsingh/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/1011mohitsingh/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
@@ -157,6 +158,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0001-two-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/1011mohitsingh/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -302,6 +304,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/1011mohitsingh/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
