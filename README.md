@@ -96,6 +96,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
+| [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -456,4 +458,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
