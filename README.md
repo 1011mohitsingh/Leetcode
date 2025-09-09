@@ -405,6 +405,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0332-reconstruct-itinerary](https://github.com/1011mohitsingh/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/0437-path-sum-iii) |
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -474,4 +475,12 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/1011mohitsingh/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/1011mohitsingh/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
