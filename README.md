@@ -171,6 +171,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/1011mohitsingh/Leetcode/tree/master/0217-contains-duplicate) |
@@ -343,6 +344,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1011mohitsingh/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -355,6 +357,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
@@ -483,4 +486,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/1011mohitsingh/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
