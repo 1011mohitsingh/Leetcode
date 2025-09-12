@@ -229,6 +229,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -262,6 +263,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/1011mohitsingh/Leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -480,6 +482,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -492,4 +495,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
