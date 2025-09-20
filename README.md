@@ -84,6 +84,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0005-longest-palindromic-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/1011mohitsingh/Leetcode/tree/master/0031-next-permutation) |
@@ -371,6 +372,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
