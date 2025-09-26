@@ -60,6 +60,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1306-minimum-absolute-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/1011mohitsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/1011mohitsingh/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/1011mohitsingh/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -249,6 +250,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
