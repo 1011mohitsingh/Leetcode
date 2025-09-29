@@ -57,6 +57,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/1011mohitsingh/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/1011mohitsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -129,6 +130,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -171,6 +173,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/1011mohitsingh/Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/1011mohitsingh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -254,6 +257,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
