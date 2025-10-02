@@ -50,6 +50,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
@@ -347,6 +348,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/1011mohitsingh/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -374,6 +376,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/1011mohitsingh/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -477,6 +480,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0563-binary-tree-tilt](https://github.com/1011mohitsingh/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -489,6 +493,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0200-number-of-islands](https://github.com/1011mohitsingh/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1005-univalued-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
