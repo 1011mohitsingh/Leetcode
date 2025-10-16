@@ -86,6 +86,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/1011mohitsingh/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/1011mohitsingh/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
