@@ -333,6 +333,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2365-percentage-of-letter-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/1011mohitsingh/Leetcode/tree/master/3396-valid-word) |
