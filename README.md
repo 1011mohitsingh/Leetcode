@@ -335,6 +335,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/1011mohitsingh/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2365-percentage-of-letter-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
@@ -377,6 +378,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/1011mohitsingh/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
