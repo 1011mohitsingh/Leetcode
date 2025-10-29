@@ -259,6 +259,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/1011mohitsingh/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +302,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/1011mohitsingh/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
