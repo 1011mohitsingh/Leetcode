@@ -91,6 +91,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/1011mohitsingh/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/1011mohitsingh/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -250,6 +251,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/1011mohitsingh/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/1011mohitsingh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/1011mohitsingh/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -303,6 +305,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1011mohitsingh/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
