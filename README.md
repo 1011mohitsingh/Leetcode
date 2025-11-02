@@ -91,6 +91,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/1011mohitsingh/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -251,6 +252,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/1011mohitsingh/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/1011mohitsingh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -490,6 +492,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0328-odd-even-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
 | ------- |
