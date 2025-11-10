@@ -116,6 +116,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/1011mohitsingh/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/1011mohitsingh/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -484,6 +485,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0025-reverse-nodes-in-k-group](https://github.com/1011mohitsingh/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/1011mohitsingh/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/1011mohitsingh/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/1011mohitsingh/Leetcode/tree/master/0141-linked-list-cycle) |
