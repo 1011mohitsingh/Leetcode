@@ -89,6 +89,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2727-number-of-senior-citizens](https://github.com/1011mohitsingh/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -140,6 +141,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
 | ------- |
@@ -399,6 +401,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/1011mohitsingh/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -425,6 +428,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1917-maximum-average-pass-ratio](https://github.com/1011mohitsingh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
