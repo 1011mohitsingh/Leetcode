@@ -90,6 +90,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2625-increment-submatrices-by-one](https://github.com/1011mohitsingh/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2727-number-of-senior-citizens](https://github.com/1011mohitsingh/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/1011mohitsingh/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -456,12 +457,14 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2625-increment-submatrices-by-one](https://github.com/1011mohitsingh/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3748-sort-matrix-by-diagonals](https://github.com/1011mohitsingh/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2625-increment-submatrices-by-one](https://github.com/1011mohitsingh/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
