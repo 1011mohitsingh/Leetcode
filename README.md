@@ -297,6 +297,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/1011mohitsingh/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/1011mohitsingh/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -319,6 +320,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/1011mohitsingh/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -367,6 +369,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/1011mohitsingh/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/1011mohitsingh/Leetcode/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
