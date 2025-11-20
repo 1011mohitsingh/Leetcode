@@ -271,6 +271,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
@@ -309,6 +310,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/1011mohitsingh/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
@@ -335,6 +337,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
@@ -409,6 +412,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
