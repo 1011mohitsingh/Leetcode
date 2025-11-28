@@ -323,6 +323,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
+| [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/1011mohitsingh/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/1011mohitsingh/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -492,6 +493,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0206-reverse-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
