@@ -317,6 +317,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0048-rotate-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1011mohitsingh/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/1011mohitsingh/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/1011mohitsingh/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
@@ -393,6 +394,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1011mohitsingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/1011mohitsingh/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/1011mohitsingh/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0162-find-peak-element) |
