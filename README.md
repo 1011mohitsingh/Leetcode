@@ -99,6 +99,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3232-find-if-digit-game-can-be-won](https://github.com/1011mohitsingh/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -334,6 +335,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3232-find-if-digit-game-can-be-won](https://github.com/1011mohitsingh/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -490,6 +492,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2625-increment-submatrices-by-one](https://github.com/1011mohitsingh/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
