@@ -379,6 +379,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/1011mohitsingh/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
@@ -432,6 +433,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/1011mohitsingh/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1011mohitsingh/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
