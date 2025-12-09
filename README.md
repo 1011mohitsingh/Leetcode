@@ -330,6 +330,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/1011mohitsingh/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/1011mohitsingh/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/1011mohitsingh/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -706,6 +707,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/1011mohitsingh/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Combinatorics
 |  |
 | ------- |
