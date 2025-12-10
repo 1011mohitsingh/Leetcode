@@ -101,6 +101,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1011mohitsingh/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -338,6 +339,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1011mohitsingh/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -683,6 +685,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1011mohitsingh/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -711,6 +714,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Combinatorics
 |  |
 | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1011mohitsingh/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
