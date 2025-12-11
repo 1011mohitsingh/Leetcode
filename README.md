@@ -189,6 +189,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/1011mohitsingh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/1011mohitsingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0055-jump-game) |
@@ -355,6 +356,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0008-string-to-integer-atoi](https://github.com/1011mohitsingh/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/1011mohitsingh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
@@ -428,6 +430,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
