@@ -28,6 +28,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0073-set-matrix-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/1011mohitsingh/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/1011mohitsingh/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +285,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/1011mohitsingh/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
@@ -432,6 +434,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0022-generate-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/1011mohitsingh/Leetcode/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
