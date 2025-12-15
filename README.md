@@ -83,6 +83,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1011mohitsingh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/1011mohitsingh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -179,6 +180,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
@@ -272,6 +274,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1319-unique-number-of-occurrences](https://github.com/1011mohitsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -529,6 +532,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
@@ -730,6 +734,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/1011mohitsingh/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/1011mohitsingh/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Combinatorics
 |  |
 | ------- |
