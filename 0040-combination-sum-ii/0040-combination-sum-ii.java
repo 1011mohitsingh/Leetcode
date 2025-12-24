@@ -1,5 +1,8 @@
 class Solution {
     public void getCombinationsSum(int[] candidates, List<List<Integer>> ans, List<Integer> list, int target , int idx){
+        if (target < 0) {
+            return;
+        }
         if(target == 0){
             ans.add(new ArrayList<>(list));
             return;
@@ -8,7 +11,6 @@ class Solution {
             if(i > idx && candidates[i] == candidates[i-1]){
                 continue;
             }
-            if (candidates[i] > target) break;
             list.add(candidates[i]);
             getCombinationsSum(candidates, ans ,list, target-candidates[i] ,i+1);
             list.remove(list.size()-1);
