@@ -46,6 +46,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/1011mohitsingh/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/1011mohitsingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/1011mohitsingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
@@ -455,6 +456,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/1011mohitsingh/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
