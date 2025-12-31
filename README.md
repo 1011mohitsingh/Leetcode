@@ -61,6 +61,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/1011mohitsingh/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -274,6 +275,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/1011mohitsingh/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/1011mohitsingh/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -349,6 +351,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
@@ -518,6 +521,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0130-surrounded-regions](https://github.com/1011mohitsingh/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/1011mohitsingh/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
