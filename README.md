@@ -209,6 +209,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0119-pascals-triangle-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Stack
@@ -386,6 +387,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0076-minimum-window-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/1011mohitsingh/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/1011mohitsingh/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -462,6 +464,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0051-n-queens](https://github.com/1011mohitsingh/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/1011mohitsingh/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
