@@ -39,6 +39,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0130-surrounded-regions](https://github.com/1011mohitsingh/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/1011mohitsingh/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1011mohitsingh/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1011mohitsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -210,6 +211,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1011mohitsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/1011mohitsingh/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Stack
@@ -257,6 +259,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0127-word-ladder](https://github.com/1011mohitsingh/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/1011mohitsingh/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/1011mohitsingh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
@@ -388,6 +391,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0125-valid-palindrome](https://github.com/1011mohitsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/1011mohitsingh/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/1011mohitsingh/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -619,6 +623,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
@@ -778,4 +783,8 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/1011mohitsingh/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
