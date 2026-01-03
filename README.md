@@ -355,6 +355,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0172-factorial-trailing-zeroes](https://github.com/1011mohitsingh/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/1011mohitsingh/Leetcode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/1011mohitsingh/Leetcode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -398,6 +399,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0165-compare-version-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/1011mohitsingh/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/1011mohitsingh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/1011mohitsingh/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/1011mohitsingh/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -473,6 +475,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0090-subsets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/1011mohitsingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/1011mohitsingh/Leetcode/tree/master/0282-expression-add-operators) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/1011mohitsingh/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
