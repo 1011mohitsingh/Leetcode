@@ -78,6 +78,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1306-minimum-absolute-difference](https://github.com/1011mohitsingh/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/1011mohitsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/1011mohitsingh/Leetcode/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/1011mohitsingh/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -360,6 +361,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/1011mohitsingh/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1011mohitsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
