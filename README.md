@@ -61,6 +61,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0540-single-element-in-a-sorted-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -285,6 +286,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -418,6 +420,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0451-sort-characters-by-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/1011mohitsingh/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/1011mohitsingh/Leetcode/tree/master/0857-positions-of-large-groups) |
