@@ -290,6 +290,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0652-find-duplicate-subtrees](https://github.com/1011mohitsingh/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/1011mohitsingh/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/1011mohitsingh/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -422,6 +423,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/1011mohitsingh/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/1011mohitsingh/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0925-long-pressed-name](https://github.com/1011mohitsingh/Leetcode/tree/master/0925-long-pressed-name) |
