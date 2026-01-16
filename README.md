@@ -159,6 +159,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0443-string-compression](https://github.com/1011mohitsingh/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/1011mohitsingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/1011mohitsingh/Leetcode/tree/master/0925-long-pressed-name) |
@@ -228,6 +229,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -425,6 +427,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/1011mohitsingh/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0857-positions-of-large-groups](https://github.com/1011mohitsingh/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0925-long-pressed-name](https://github.com/1011mohitsingh/Leetcode/tree/master/0925-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -499,6 +502,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/1011mohitsingh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
