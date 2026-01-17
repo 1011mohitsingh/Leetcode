@@ -73,6 +73,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0932-monotonic-array](https://github.com/1011mohitsingh/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/1011mohitsingh/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/1011mohitsingh/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1002-find-common-characters](https://github.com/1011mohitsingh/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/1011mohitsingh/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/1011mohitsingh/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -295,6 +296,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0771-jewels-and-stones](https://github.com/1011mohitsingh/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/1011mohitsingh/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/1011mohitsingh/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/1011mohitsingh/Leetcode/tree/master/1002-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/1011mohitsingh/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/1011mohitsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -430,6 +432,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0857-positions-of-large-groups](https://github.com/1011mohitsingh/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0925-long-pressed-name](https://github.com/1011mohitsingh/Leetcode/tree/master/0925-long-pressed-name) |
+| [1002-find-common-characters](https://github.com/1011mohitsingh/Leetcode/tree/master/1002-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/1011mohitsingh/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/1011mohitsingh/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
