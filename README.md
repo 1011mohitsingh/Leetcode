@@ -117,6 +117,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3433-count-mentions-per-user](https://github.com/1011mohitsingh/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/1011mohitsingh/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1011mohitsingh/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -312,6 +313,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/1011mohitsingh/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1011mohitsingh/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/1011mohitsingh/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -519,6 +521,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2596-check-knight-tour-configuration](https://github.com/1011mohitsingh/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/1011mohitsingh/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -546,6 +549,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -634,6 +638,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0908-middle-of-the-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -754,6 +759,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
@@ -787,6 +793,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/1011mohitsingh/Leetcode/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
 | ------- |
