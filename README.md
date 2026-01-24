@@ -91,6 +91,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1677-matrix-diagonal-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/1011mohitsingh/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/1011mohitsingh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/1011mohitsingh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -166,6 +167,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0908-middle-of-the-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/1011mohitsingh/Leetcode/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/1011mohitsingh/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1011mohitsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -198,6 +200,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/1011mohitsingh/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -253,6 +256,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1018-largest-perimeter-triangle](https://github.com/1011mohitsingh/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1011mohitsingh/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/1011mohitsingh/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/1011mohitsingh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/1011mohitsingh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/1011mohitsingh/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/1011mohitsingh/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
