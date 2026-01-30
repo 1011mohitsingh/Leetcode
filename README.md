@@ -107,6 +107,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/1011mohitsingh/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/1011mohitsingh/Leetcode/tree/master/2502-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/1011mohitsingh/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2596-check-knight-tour-configuration](https://github.com/1011mohitsingh/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2625-increment-submatrices-by-one](https://github.com/1011mohitsingh/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -390,6 +391,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1922-count-good-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/1011mohitsingh/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2481-strictly-palindromic-number](https://github.com/1011mohitsingh/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/1011mohitsingh/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/1011mohitsingh/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/1011mohitsingh/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3336-water-bottles-ii](https://github.com/1011mohitsingh/Leetcode/tree/master/3336-water-bottles-ii) |
