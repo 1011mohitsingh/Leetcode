@@ -330,6 +330,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3606-coupon-code-validator](https://github.com/1011mohitsingh/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/1011mohitsingh/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/1011mohitsingh/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/1011mohitsingh/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/1011mohitsingh/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -370,6 +371,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3242-count-elements-with-maximum-frequency](https://github.com/1011mohitsingh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/1011mohitsingh/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/1011mohitsingh/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/1011mohitsingh/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -474,6 +476,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [3462-vowels-game-in-a-string](https://github.com/1011mohitsingh/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/1011mohitsingh/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/1011mohitsingh/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/1011mohitsingh/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/1011mohitsingh/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -827,6 +830,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [1925-count-square-sum-triples](https://github.com/1011mohitsingh/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1011mohitsingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/1011mohitsingh/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
 |  |
 | ------- |
