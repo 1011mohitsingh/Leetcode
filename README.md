@@ -62,6 +62,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0560-subarray-sum-equals-k](https://github.com/1011mohitsingh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/1011mohitsingh/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/1011mohitsingh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/1011mohitsingh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/1011mohitsingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0830-largest-triangle-area](https://github.com/1011mohitsingh/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -242,6 +243,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | [0071-simplify-path](https://github.com/1011mohitsingh/Leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/1011mohitsingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/1011mohitsingh/Leetcode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/1011mohitsingh/Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/1011mohitsingh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -526,6 +528,7 @@ This is the Repo which is a collections of Leetcode problems and my solutions so
 | ------- |
 | [0054-spiral-matrix](https://github.com/1011mohitsingh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/1011mohitsingh/Leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/1011mohitsingh/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/1011mohitsingh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/1011mohitsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/1011mohitsingh/Leetcode/tree/master/1642-water-bottles) |
